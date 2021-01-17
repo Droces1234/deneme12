@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\rastgele\rastgele\bin\Debug\rastgele.exe.config
+C:\Users\Windows10\source\repos\rastgele\rastgele\bin\Debug\rastgele.exe
+C:\Users\Windows10\source\repos\rastgele\rastgele\bin\Debug\rastgele.pdb
+C:\Users\Windows10\source\repos\rastgele\rastgele\obj\Debug\rastgele.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\rastgele\rastgele\obj\Debug\rastgele.Form1.resources
+C:\Users\Windows10\source\repos\rastgele\rastgele\obj\Debug\rastgele.Properties.Resources.resources
+C:\Users\Windows10\source\repos\rastgele\rastgele\obj\Debug\rastgele.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\rastgele\rastgele\obj\Debug\rastgele.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\rastgele\rastgele\obj\Debug\rastgele.exe
+C:\Users\Windows10\source\repos\rastgele\rastgele\obj\Debug\rastgele.pdb
